@@ -17,42 +17,160 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👀 About me
+I am Zhenyu Yang (杨振宇), a fourth-year Ph.D. student (2022-2027) at the State Key Laboratory of Multimodal Artificial Intelligence Systems ([MAIS](https://mais.ia.ac.cn/)), Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ&hl=zh-CN). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications in 2022. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include 1. **Streaming Video Understanding**, 2. Multimodal Large Language Models, 3. Multimodal Retrieval. I have previously worked as a research intern with the Tencent Hunyuan team, the Kuaishou Keye team, and the 360 AI Department. I welcome collaboration and am always open to discussing research opportunities—feel free to reach out via email!!!
 
+<!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🏆🏆 Congratulations to our "[Multi-View Captioning with Semantic Delta Re-Ranking for Zero-Shot Composed Video Retrieval](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_7)" for winning the **Best Paper Award** at ICIG 2025! 
+- *2025.09*: &nbsp;🎉🎉 Our paper "[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://openreview.net/forum?id=4n7IifN7yr)" about streaming  Video-LLMs has been accepted to **NeurIPS 2025**!
+- *2025.08*: &nbsp;🎉🎉 Our paper "[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](https://arxiv.org/abs/2510.25332)" has been accepted to ACM MM 2025 Datasets!
+- *2025.07*: &nbsp;🎉🎉 I was supported the **CIE-Tencent Doctoral Research Incentive Project**, a competitive grant awarded to **only 23 recipients nationwide**, along with a research fund of **100,000 RMB**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">NeurIPS 2025</div>
+    <img src='images/NeurIPS2025.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+🔥 [NeurIPS'2025] Poster
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://openreview.net/forum?id=4n7IifN7yr)
+
+**Zhenyu Yang**, Kairui Zhang, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu
+
+[[Code]](https://github.com/sotayang/LiveStar) [[Project]](https://sotayang.github.io/LiveStar) [[Paper]](https://openreview.net/forum?id=4n7IifN7yr) [[中文解读]](https://mp.weixin.qq.com/s/GdkpgCxrAlbVrN6AAQn74A)
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ICLR 2025</div>
+    <img src='images/ICLR2025.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🚀 [ICLR'2025] Spotlight
+
+[SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding](https://arxiv.org/abs/2502.10810)
+
+**Zhenyu Yang**, Yuhang Hu, Zemin Du, Dizhan Xue, Shengsheng Qian, Jiahong Wu, Fan Yang, Weiming Dong, Changsheng Xu
+
+[[Code]](https://github.com/sotayang/SVBench) [[Project]](https://sotayang.github.io/SVBench/) [[Paper]](https://arxiv.org/abs/2502.10810) [[Dataset]](https://huggingface.co/datasets/yzy666/SVBench) [[Model]](https://huggingface.co/yzy666/StreamingChat_8B) [[Leaderboard]](https://huggingface.co/spaces/yzy666/SVBench) [[Submission]](https://forms.gle/tmY8PmM5KWSvTGcn7) [[中文解读]](https://mp.weixin.qq.com/s/zFj6Wpy8ePR-2r0iWBghqA) 
+
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">SIGIR 2024</div>
+    <img src='images/SIGIR2024.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🏆 [SIGIR'2024] Best Paper Honorable Mention
+
+[LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)
+
+**Zhenyu Yang**, Dizhan Xue, Shengsheng Qian, Weiming Dong, Changsheng Xu
+
+[[Code]](https://github.com/sotayang/LDRE) [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657740) [[Video]](https://www.youtube.com/watch?v=GZ2fv5No4Xc)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ACM MM 2024</div>
+    <img src='images/MM2024.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🎉 [ACM MM'2024] Poster
+
+[Semantic Editing Increment Benefits Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/pdf/10.1145/3664647.3681649)
+
+**Zhenyu Yang**, Shengsheng Qian, Dizhan Xue, Jiahong Wu, Fan Yang, Weiming Dong, Changsheng Xu
+
+[[Code]](https://github.com/sotayang/SEIZE) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681649)
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ACM MM 2025</div>
+    <img src='images/MM2025.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🎉 [ACM MM'2025] Poster
+
+[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](https://arxiv.org/abs/2510.25332)
+
+Yuhang Hu, **Zhenyu Yang**, Shihan Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Changsheng Xu
+
+[[Code]](https://github.com/Fleeting-hyh/StreamingCoT) [[Paper]](https://arxiv.org/abs/2510.25332)
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ICIG 2025</div>
+    <img src='images/ICIG2025.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🏆 [ICIG'2025] Best Paper Award
+
+[Multi-View Captioning with Semantic Delta Re-Ranking for Zero-Shot Composed Video Retrieval](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_7)
+
+Zhixiang Ding, Lilong Liu, **Zhenyu Yang**, Shengsheng Qian
+
+[[Code]](https://github.com/sotayang/MCSD) [[Project]](https://sotayang.github.io/MCSD/) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_7)
+
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Best Paper Honorable Mention (5/791), SIGIR, 2024
+- Best Paper Award, ICIG, 2025
+- Spotlight Paper (~3.27%), ICLR, 2025
+- CIE-Tencent Doctoral Research Incentive Project / 混元学者 (中国电子学会-腾讯博士生科研激励计划), 2025
+- National Scholarship, Ministry of Education, China, 2024
+- Outstanding Graduate, Beijing, 2022
+- Outstanding Graduate, Beijing University of Posts and Telecommunications, 2022
+- First-Class Scholarship, Beijing University of Posts and Telecommunications, 2020/2021
+- First Prize in American Mathematical Contest in Modeling (MCM), Top 6.7% Globally, 2020
+
+<!-- *2020.03* First Prize in American Mathematical Contest in Modeling (MCM), Top 6.7% Globally -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2022.09 - 2027.06:** Ph.D, State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences, Beijing. *Major:* Computer Applied Technology.
+- **2018.09 - 2022.06:** Undergraduate, School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications, Beijing. *Major:* Intelligent Science and Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🙋 Services
+- **Conference Reviewer:** CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ACML 2025, etc.
+- **Journal Reviewer:** IEEE Transactions on Image Processing (TIP), Transactions on Multimedia Computing Communications and Applications (TOMM), Neurocomputing, Pattern Recognition.
+
+
+<br><br><br><br><br>
