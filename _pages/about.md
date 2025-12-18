@@ -170,7 +170,7 @@ Zhixiang Ding, Lilong Liu, **Zhenyu Yang**, Shengsheng Qian
 
 # 🙋 Services
 - **Conference Reviewer:** CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ACML 2025, etc.
-- **Journal Reviewer:** IEEE Transactions on Image Processing (TIP), Transactions on Multimedia Computing Communications and Applications (TOMM), Neurocomputing, Pattern Recognition.
+- **Journal Reviewer:** IEEE Transactions on Image Processing (TIP), ACM Transactions on Multimedia Computing Communications and Applications (TOMM), ACM Transactions on Information Systems (TOIS), Neurocomputing, Pattern Recognition.
 
 
 <br><br><br><br><br>
