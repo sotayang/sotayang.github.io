@@ -25,10 +25,20 @@ My research interests include 1. **Streaming Video Understanding**, 2. Multimoda
 <!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
+- *2026.06*: &nbsp;🔥🔥 We released our **Survey on Streaming Video Understanding** and an [**Awesome-Streaming-Video-Understanding**](https://github.com/sotayang/Awesome-Streaming-Video-Understanding) list — the most comprehensive collection of papers, code, and datasets for real-time, always-on video AI. Check it out and give us a ⭐!
 - *2025.11*: &nbsp;🏆🏆 Congratulations to our "[Multi-View Captioning with Semantic Delta Re-Ranking for Zero-Shot Composed Video Retrieval](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_7)" for winning the **Best Paper Award** at ICIG 2025! 
 - *2025.09*: &nbsp;🎉🎉 Our paper "[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://openreview.net/forum?id=4n7IifN7yr)" about streaming  Video-LLMs has been accepted to **NeurIPS 2025**!
 - *2025.08*: &nbsp;🎉🎉 Our paper "[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](https://arxiv.org/abs/2510.25332)" has been accepted to ACM MM 2025 Datasets!
 - *2025.07*: &nbsp;🎉🎉 I was supported the **CIE-Tencent Doctoral Research Incentive Project**, a competitive grant awarded to **only 23 recipients nationwide**, along with a research fund of **100,000 RMB**.
+
+# 📚 Survey & Awesome List
+**A Survey on Streaming Video Understanding** — a comprehensive review of papers, models, and datasets for real-time, always-on, interactive video AI, covering proactive decision-making (*when* to act) and efficient long-context resource management (*how* to sustain).
+
+I also maintain [**Awesome-Streaming-Video-Understanding**](https://github.com/sotayang/Awesome-Streaming-Video-Understanding), a continuously updated, curated list accompanying the survey.
+
+<a href="https://github.com/sotayang/Awesome-Streaming-Video-Understanding"><img src="https://img.shields.io/github/stars/sotayang/Awesome-Streaming-Video-Understanding?style=social&label=Awesome-Streaming-Video-Understanding" alt="GitHub stars"></a>
+
+[[Survey]](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf) [[Awesome]](https://github.com/sotayang/Awesome-Streaming-Video-Understanding)
 
 # 📝 Publications 
 
@@ -169,7 +179,7 @@ Zhixiang Ding, Lilong Liu, **Zhenyu Yang**, Shengsheng Qian
 
 
 # 🙋 Services
-- **Conference Reviewer:** CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ACML 2025, etc.
+- **Conference Reviewer:** NeurIPS 2026, ECCV 2026, CVPR 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, ACML 2025, etc.
 - **Journal Reviewer:** IEEE Transactions on Image Processing (TIP), ACM Transactions on Multimedia Computing Communications and Applications (TOMM), ACM Transactions on Information Systems (TOIS), Neurocomputing, Pattern Recognition.
 
 
