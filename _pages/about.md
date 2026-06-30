@@ -18,6 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
+> *I build real-time, always-on video AI that perceives, reasons, and responds on the fly.*
+
 I am Zhenyu Yang (杨振宇), a fourth-year Ph.D. student (2022-2027) at the State Key Laboratory of Multimodal Artificial Intelligence Systems ([MAIS](https://mais.ia.ac.cn/)), Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ&hl=zh-CN). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications in 2022. 
 
 My research interests include 1. **Streaming Video Understanding**, 2. Multimodal Large Language Models, 3. Multimodal Retrieval. I have previously worked as a research intern with the Tencent Hunyuan team, the Kuaishou Keye team, and the 360 AI Department. I welcome collaboration and am always open to discussing research opportunities—feel free to reach out via email!!!
@@ -25,13 +27,15 @@ My research interests include 1. **Streaming Video Understanding**, 2. Multimoda
 <!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
-- *2026.06*: &nbsp;🔥🔥 We released our "[Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf)" and an [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding) list — the most comprehensive collection of papers, code, and datasets for real-time, always-on video AI. Check it out and give us a ⭐!
+- *2026.06*: &nbsp;🎉🎉 Our paper "[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313)" has been accepted to **ECCV 2026**!
+- *2026.06*: &nbsp;✨✨ We released our "[Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf)" and an [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding) list — the most comprehensive collection of papers, code, and datasets for real-time, always-on video AI. Check it out and give us a ⭐!
+- *2026.02*: &nbsp;🎉🎉 Our paper "[Querystream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response](https://openreview.net/forum?id=738HjJEbml)" has been accepted to **ICLR 2026**!
 - *2025.11*: &nbsp;🏆🏆 Congratulations to our "[Multi-View Captioning with Semantic Delta Re-Ranking for Zero-Shot Composed Video Retrieval](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_7)" for winning the **Best Paper Award** at ICIG 2025! 
 - *2025.09*: &nbsp;🎉🎉 Our paper "[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://openreview.net/forum?id=4n7IifN7yr)" about streaming Video-LLMs has been accepted to **NeurIPS 2025**!
 - *2025.08*: &nbsp;🎉🎉 Our paper "[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](https://arxiv.org/abs/2510.25332)" has been accepted to ACM MM 2025 Datasets!
-- *2025.07*: &nbsp;🎉🎉 I was awarded the **CIE-Tencent Doctoral Research Incentive Project**, a competitive grant awarded to **only 23 recipients nationwide**, along with a research fund of **100,000 RMB**.
+- *2025.07*: &nbsp;🚀🚀 I was awarded the **CIE-Tencent Doctoral Research Incentive Project**, a competitive grant awarded to **only 23 recipients nationwide**, along with a research fund of **100,000 RMB**.
 
-# 📚 Survey & Awesome List
+# 📚 Survey and Awesome List
 [A Survey on Streaming Video Understanding](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf) — a comprehensive review of papers, models, and datasets for real-time, always-on, interactive video AI, covering proactive decision-making (*when* to act) and efficient long-context resource management (*how* to sustain).
 
 I also maintain [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding), a continuously updated, curated list accompanying the survey.
@@ -111,6 +115,50 @@ I also maintain [Awesome-Streaming-Video-Understanding](https://github.com/sotay
 **Zhenyu Yang**, Shengsheng Qian, Dizhan Xue, Jiahong Wu, Fan Yang, Weiming Dong, Changsheng Xu
 
 [[Code]](https://github.com/sotayang/SEIZE) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681649)
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ECCV 2026</div>
+    <img src='images/ECCV2026.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🎉 [ECCV'2026] Poster
+
+[ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://arxiv.org/abs/2606.27313)
+
+<u>Xumin Yu</u>\*, <u>Zuyan Liu</u>\*, <u><strong>Zhenyu Yang</strong></u>\*, Yuhao Dong, Shengsheng Qian, Jiwen Lu, Han Hu, Yongming Rao
+
+[[Code]](https://github.com/yuxumin/ViQ) [[Paper]](https://arxiv.org/abs/2606.27313) [[Model]](https://huggingface.co/XuminYu/ViQ_weights)
+
+<span style="font-size: 0.85em;">\* Equal contribution</span>
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ICLR 2026</div>
+    <img src='images/ICLR2026.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+🎉 [ICLR'2026] Poster
+
+[Querystream: Advancing Streaming Video Understanding with Query-Aware Pruning and Proactive Response](https://openreview.net/forum?id=738HjJEbml)
+
+Kairui Zhang, **Zhenyu Yang**, Bing Wang, Shengsheng Qian, Changsheng Xu
+
+[[Code]](https://github.com/Zhangkr2003/QueryStream) [[Paper]](https://openreview.net/forum?id=738HjJEbml)
 
   </div>
 </div>
